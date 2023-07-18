@@ -1,25 +1,38 @@
 
-.player-one ul
-{ 
-	list-style-type: none;
-	padding: 0px;
-}
-.player-one ul li{
-	margin-bottom: 10px;
-}
-
-
-.player_one ul li a
+body
 {
-	background:white;
+	background: #cccccc;
 }
-.player_two video {
-  width: 320px;
-  height: 240px;
+.container{
+	text-align:center;
 }
 
-.player_three audio {
-  width: 320px;
+.player_one{
+	background-color: white;
+	border: 1px solid black;
+	padding: 10px;
+	display: inline-block;
+	margin: 10px;
+	width:100%
 }
+
+.player_one ul
+{
+	list-style-type: none;
+	padding: 0;
+}
+h2{
+	text-align:center
+	padding:10px;
+}
+.player_two {
+  background-color: white;
+  border: 1px solid black;
+  padding: 10px;
+  display: inline-block;
+  margin: 10px;
+	width:400px;
+}
+
 
 
