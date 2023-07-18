@@ -21,7 +21,7 @@ h2{
 	width:100%
 }
 .player_one a {
-  text-decoration: none; /* Fix for underline issue */
+  text-decoration: none;
 	
 }
 
@@ -43,7 +43,6 @@ h2{
 	margin:0px
 	
 }
-
 .player_two audio
 {
 	width: 320px;
