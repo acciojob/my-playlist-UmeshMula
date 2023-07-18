@@ -1,1 +1,25 @@
-/*  your css code here. If applicable */
+
+.player-one ul
+{ 
+	list-style-type: none;
+	padding: 0px;
+}
+.player-one ul li{
+	margin-bottom: 10px;
+}
+
+
+.player_one ul li a
+{
+	background:white;
+}
+.player_two video {
+  width: 320px;
+  height: 240px;
+}
+
+.player_three audio {
+  width: 320px;
+}
+
+
