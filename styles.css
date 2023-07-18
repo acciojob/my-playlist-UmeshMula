@@ -39,13 +39,14 @@ h2{
 {
 	text-align:left;
 	padding:0px;
+	margin:0px
 	
 }
 
 .player_two audio
 {
 	width: 320px;
-	margin:0px;
+	margin-top:0px;
 }
 
 
