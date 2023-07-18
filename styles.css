@@ -1,4 +1,3 @@
-
 body
 {
 	background: #cccccc;
@@ -11,9 +10,10 @@ body
 	background-color: white;
 	border: 1px solid black;
 	padding: 10px;
-	display: inline-block;
-	margin: 10px;
 	width:100%
+}
+.player_one a {
+  text-decoration: none; /* Fix for underline issue */
 }
 
 .player_one ul
@@ -21,17 +21,16 @@ body
 	list-style-type: none;
 	padding: 0;
 }
-h2{
-	text-align:center
-	padding:10px;
-}
 .player_two {
   background-color: white;
   border: 1px solid black;
   padding: 10px;
-  display: inline-block;
-  margin: 10px;
 	width:400px;
+}
+.player_two audio
+{
+	width: 350px;
+	pading:10px;
 }
 
 
