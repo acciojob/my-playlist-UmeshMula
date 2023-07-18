@@ -4,6 +4,14 @@ body
 }
 .container{
 	text-align:center;
+	margin-top:0px;
+	margin-bottom:10px;
+}
+h2{
+	text-align:center;
+	padding:0px;
+	margin-top:0px;
+	margin-bottom:20px;
 }
 
 .player_one{
@@ -25,12 +33,19 @@ body
   background-color: white;
   border: 1px solid black;
   padding: 10px;
-	width:400px;
+	width:325px;
 }
+.player_two h6
+{
+	text-align:left;
+	padding:0px;
+	
+}
+
 .player_two audio
 {
-	width: 350px;
-	pading:10px;
+	width: 320px;
+	margin:0px;
 }
 
 
